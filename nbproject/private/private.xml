@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/NESNEODEVI.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/ICihazinDurumunuGetir.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/Kullanici.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/KullaniciDogrulaPostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/AkilliCihazIDBulPostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/AkilliCihaz.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/SicakligiGuncellePostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/VeritabaniBaglantisiPostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/DurumEklePostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/KullanicilariGetirPostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IObserver.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IKullanicilariGetir.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IAkilliCihazEkle.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IAlgilayici.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/YoneticiKullaniciIliskilendir.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IKullaniciDogrula.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/ISubject.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IAkilliCihazIDBul.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IDurumEkle.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/ISicakligiGuncelle.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IAkilliCihazlariGetir.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/Durum.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/CihazinDurumunuGetirPostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IVeritabaniBaglantisi.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/IKullaniciEkle.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/Yonetici.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/AkilliCihazEklePostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/Program.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/KullaniciEklePostreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/AkilliCihazlariGetirPostgreSQL.java</file>
+            <file>file:/C:/Users/kutay/OneDrive/Belgeler/NetBeansProjects/NESNEODEVI/src/nesneodevı/Algilayici.java</file>
+        </group>
+    </open-files>
+</project-private>
